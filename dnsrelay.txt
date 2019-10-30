@@ -1,0 +1,5 @@
+0.0.0.0 www.sina.com
+192.168.1.1 www.virgilchen.com
+192.168.1.1 www.aaabbbccc.com
+0.0.0.0 www.baidu.com
+1.1.1.1 www.bupt.edu.cn
